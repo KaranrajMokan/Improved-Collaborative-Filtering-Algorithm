@@ -5,4 +5,4 @@ It uses improved collaborative fitering algorithm for E-commerce recommendation 
 
 * The dataset can be downloaded from https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products#Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv
 
-* This project is an implementation of the journal paper which is given in the pdf
+* This project is an implementation of the journal paper which is given in the wang2017.pdf
