@@ -65,3 +65,6 @@ for k, v in dictionary.iteritems():
 print("\n\n")
 dictionary.filter_extremes(no_below=15, no_above=0.5, keep_n=100000)
 print(dictionary)
+
+bow_corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
+bow_corpus[4310]
